@@ -11,4 +11,4 @@ const CONFIG = {
 	hourDarkThemeInactive: '07:00',
 };
 
-// From https://migueravila.github.io/Bento/
+// From https://github.com/migueravila/Bento

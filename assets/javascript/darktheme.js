@@ -61,4 +61,4 @@ if (CONFIG.changeThemeByHour && CONFIG.autoChangeTheme && !CONFIG.changeThemeByO
 		disableDark();
 	}
 }
- // From https://valkriea.link 
+ // From https://github.com/migueravila/Bento
